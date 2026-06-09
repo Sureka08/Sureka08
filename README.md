@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Sureka Apputhurai
 
-<!--
-**Sureka08/Sureka08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓🎓 BSc (Hons) in Information Technology (Specializing in Software Engineering)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning Next.js, NestJS, MongoDB
+- 💻 Interested in Full Stack Development
+- 🔭 Building Web Applications and REST APIs
+- 📚 Studying at SLIIT Northern University
+- ⚡ Passionate about Software Development
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- JavaScript
+- TypeScript
+- Next.js
+- React
+- NestJS
+- Node.js
+- MongoDB
+- MySQL
+- Git & GitHub
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sureka-apputhurai-b94606349
+
+---
+
+⭐ Thanks for visiting my profile!
